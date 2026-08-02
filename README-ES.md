@@ -41,7 +41,6 @@ Portafolio personal de **Nicola Amoruso**, Desarrollador Web Full Stack en Valen
 
 Presenta experiencia profesional (LegalTec, Amoruso Inversiones, Show Proba), el stack tecnológico completo y una sección de contacto — con una UI muy interactiva: scroll suave, microinteracciones basadas en física, temas claro/oscuro y soporte bilingüe (español / inglés).
 
-Basado en una plantilla open-source inspirada en Awwwards, personalizada con proyectos reales, contenido de perfil y detalles de stack orientados a producción (RAG, LLMs, Redis, Google Cloud, entre otros).
 
 ## <a id="features"></a> ✨ Características
 
