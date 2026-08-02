@@ -9,7 +9,6 @@
   <br />
 
 <div align="center">
-  <img src="public/profile.png" width="120" height="120" style="border-radius: 50%;" />
   <br />
   <br />
 
