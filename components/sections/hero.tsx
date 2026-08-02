@@ -7,6 +7,7 @@ import { useLanguage } from "@/providers/language-provider";
 import { ArrowRight, Mouse } from "lucide-react";
 import { ContactModal } from "@/components/modals/contact-modal";
 import { InteractiveParticles } from "@/components/effects/interactive-particles";
+import { assetPath } from "@/lib/asset";
 
 const TRACK_1 = [
     "/hero-slider/legaltec-dashboard.png",
@@ -15,7 +16,7 @@ const TRACK_1 = [
     "/projects/legaltec.png",
     "/hero-slider/legaltec-perfil.png",
     "/projects/showproba.png",
-] as const;
+].map(assetPath);
 
 const TRACK_2 = [
     "/hero-slider/showproba-servicios.png",
@@ -24,7 +25,7 @@ const TRACK_2 = [
     "/hero-slider/showproba-equipos.png",
     "/hero-slider/legaltec-dashboard.png",
     "/hero-slider/amoruso-editar.png",
-] as const;
+].map(assetPath);
 
 const COL_1_IMAGES = [...TRACK_1, ...TRACK_1];
 const COL_2_IMAGES = [...TRACK_2, ...TRACK_2];

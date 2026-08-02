@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import Image from "next/image";
+import { assetPath } from "@/lib/asset";
 
 const SECRET_CODE = ["s", "s"] as const;
 const AUDIO_SRC =
@@ -121,7 +122,7 @@ export function RickRollEasterEgg() {
 
                         <div className="relative">
                             <Image
-                                src="/rickroll.gif"
+                                src={assetPath("/rickroll.gif")}
                                 alt="Rick Roll"
                                 width={600}
                                 height={400}
