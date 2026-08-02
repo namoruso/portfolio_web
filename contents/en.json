@@ -1,0 +1,105 @@
+{
+    "about": {
+        "intro": "*Full Stack* Web Developer specialized in **Backend and Artificial Intelligence**.",
+        "description": "Experienced in leading backend projects, AI integration, and scalable architectures. Computer Engineering student, self-taught, with proven ability to deliver end-to-end solutions: database design, modern interfaces, and production deployment.",
+        "full": "I'm **Nicola Amoruso**, a Full Stack Web Developer focused on **Backend and Artificial Intelligence**, based in Valencia, Venezuela.\n\nI have experience leading backend projects, artificial intelligence integration, and scalable architectures. I'm a **Computer Engineering** student at Universidad José Antonio Páez (2023–2027), self-taught, with a proven ability to deliver end-to-end solutions: from database design to modern interfaces and production deployment.\n\nPractical experience with **RAG systems**, **Large Language Models (LLMs)**, **Redis caching**, and cloud ecosystems. At LegalTec, as Backend and AI Lead, I built a RAG system from scratch for legal document processing, orchestrated the integration of multiple LLMs (Anthropic Claude, open source, and local models), and led the complete backend refactoring with Node.js, Express, and TypeScript.\n\n**Key skills:** React, Next.js 14, TypeScript, Node.js, Express, Python, PostgreSQL, MongoDB, Supabase, Redis, Google Cloud, Docker, Vercel, CI/CD, REST API integration, JWT/OAuth authentication, and agile methodologies (Scrum/Kanban).\n\n**Languages:** Native Spanish · B1 English (oral and written technical communication, meetings with international teams)."
+    },
+    "manifesto": [
+        "SCALABLE ARCHITECTURE",
+        "AI INTEGRATION",
+        "ROBUST BACKEND",
+        "END-TO-END DELIVERY",
+        "CLEAN CODE",
+        "CONTINUOUS LEARNING"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "LegalTec",
+            "category": "Backend & AI",
+            "year": "2026",
+            "description": "LegalTec is a legal platform that bridges justice and technology, enabling users to find verified lawyers, access advanced legal tools, and perform intelligent searches across legal documents.\n\nBuilt with Node.js, Express, and TypeScript on the backend, React on the frontend, Redis for caching, and Google Cloud for infrastructure. As Backend and AI Lead, I built a RAG system from scratch for semantic search, orchestrated multiple LLMs evaluating performance and cost, and integrated PayPal payments, automated backups, and secure authentication flows.",
+            "image": "/projects/legaltec.png",
+            "stack": [
+                "Node.js",
+                "Express",
+                "TypeScript",
+                "React",
+                "Redis",
+                "Google Cloud",
+                "RAG",
+                "LLMs",
+                "PayPal API"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Amoruso Inversiones",
+            "category": "Full Stack",
+            "year": "2026",
+            "description": "Amoruso Inversiones is a quote management system for an automotive workshop that enables creating estimates, automating tax calculations, and managing clients and vehicles from a single centralized interface.\n\nBuilt with Next.js and Tailwind CSS on the frontend, Node.js and Supabase (PostgreSQL) on the backend. Digital approvals via WhatsApp accelerate the quoting workflow, and automated deployment with Vercel and GitHub keeps the system up to date in production.",
+            "image": "/projects/amoruso.png",
+            "stack": [
+                "Next.js",
+                "Tailwind CSS",
+                "Node.js",
+                "Supabase",
+                "PostgreSQL",
+                "WhatsApp",
+                "Vercel",
+                "CI/CD"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Show Proba",
+            "category": "Web Development",
+            "year": "2025",
+            "description": "Show Proba is a web platform for an event equipment rental catalog, where clients can browse inventory, discover trending gear, and request quotes instantly.\n\nDeveloped with Next.js 14, TypeScript, and Tailwind CSS, with Supabase as the content manager and database. The responsive design and direct WhatsApp integration turn catalog browsing into fast quotes, with service coverage across multiple cities.",
+            "image": "/projects/showproba.png",
+            "stack": [
+                "Next.js 14",
+                "TypeScript",
+                "Tailwind CSS",
+                "Supabase",
+                "WhatsApp"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2026",
+            "description": "LegalTec — Backend & AI Lead: RAG system for legal documents, LLM integration, backend refactoring with Node.js/Express/TypeScript, Redis, Google Cloud, and PayPal API.",
+            "stack": [
+                "Node.js",
+                "RAG",
+                "LLMs",
+                "Redis",
+                "Google Cloud"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2026",
+            "description": "Amoruso Inversiones: end-to-end quote management system for automotive workshop with Next.js, Node.js, Supabase, and CI/CD deployment on Vercel.",
+            "stack": [
+                "Next.js",
+                "Node.js",
+                "Supabase",
+                "Vercel"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2025",
+            "description": "Developed Show Proba: responsive web platform for equipment rental catalog with WhatsApp quoting and Supabase content manager.",
+            "stack": [
+                "Next.js 14",
+                "TypeScript",
+                "Tailwind CSS",
+                "Supabase"
+            ]
+        }
+    ]
+}

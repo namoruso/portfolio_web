@@ -1,0 +1,105 @@
+{
+    "about": {
+        "intro": "Desarrollador Web *Full Stack* especializado en **Backend e Inteligencia Artificial**.",
+        "description": "Con experiencia liderando proyectos backend, integración de IA y arquitecturas escalables. Estudiante de Ingeniería en Computación, autodidacta, con capacidad demostrada para entregar soluciones end-to-end: diseño de bases de datos, interfaces modernas y despliegue en producción.",
+        "full": "Soy **Nicola Amoruso**, Desarrollador Web Full Stack con enfoque en **Backend e Inteligencia Artificial**, ubicado en Valencia, Venezuela.\n\nTengo experiencia liderando proyectos backend, integración de inteligencia artificial y arquitecturas escalables. Soy estudiante de **Ingeniería en Computación** en la Universidad José Antonio Páez (2023–2027), autodidacta, con capacidad demostrada para entregar soluciones end-to-end: desde el diseño de bases de datos hasta interfaces modernas y despliegue en producción.\n\nExperiencia práctica con **sistemas RAG**, **modelos de lenguaje (LLMs)**, **caché con Redis** y ecosistemas cloud. En LegalTec, como Líder de Backend e IA, construí un sistema RAG desde cero para procesamiento de documentos legales, orquesté la integración de múltiples LLMs (Anthropic Claude, open source y modelos locales), y lideré la refactorización completa del backend con Node.js, Express y TypeScript.\n\n**Habilidades clave:** React, Next.js 14, TypeScript, Node.js, Express, Python, PostgreSQL, MongoDB, Supabase, Redis, Google Cloud, Docker, Vercel, CI/CD, integración de APIs REST, autenticación JWT/OAuth, y metodologías ágiles (Scrum/Kanban).\n\n**Idiomas:** Español nativo · Inglés B1 (comunicación técnica oral y escrita, reuniones con equipos internacionales)."
+    },
+    "manifesto": [
+        "ARQUITECTURA ESCALABLE",
+        "INTEGRACIÓN DE IA",
+        "BACKEND ROBUSTO",
+        "ENTREGA END-TO-END",
+        "CÓDIGO LIMPIO",
+        "APRENDIZAJE CONTINUO"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "LegalTec",
+            "category": "Backend e IA",
+            "year": "2026",
+            "description": "LegalTec es una plataforma legal que integra justicia y tecnología, permitiendo a los usuarios encontrar abogados verificados, acceder a herramientas legales avanzadas y realizar búsquedas inteligentes en documentos jurídicos.\n\nDesarrollado con Node.js, Express y TypeScript en el backend, React en el frontend, Redis para caché y Google Cloud para infraestructura. Como Líder de Backend e IA, construí un sistema RAG desde cero para búsqueda semántica, orquesté múltiples LLMs evaluando rendimiento y costo, e integré pagos con PayPal, respaldos automatizados y flujos de autenticación seguros.",
+            "image": "/projects/legaltec.png",
+            "stack": [
+                "Node.js",
+                "Express",
+                "TypeScript",
+                "React",
+                "Redis",
+                "Google Cloud",
+                "RAG",
+                "LLMs",
+                "PayPal API"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Amoruso Inversiones",
+            "category": "Full Stack",
+            "year": "2026",
+            "description": "Amoruso Inversiones es un sistema de gestión de presupuestos para un taller automotriz que permite crear cotizaciones, calcular impuestos automáticamente y administrar clientes y vehículos desde una interfaz centralizada.\n\nConstruido con Next.js y Tailwind CSS en el frontend, Node.js y Supabase (PostgreSQL) en el backend. Las aprobaciones digitales vía WhatsApp aceleran el flujo de cotizaciones, y el despliegue automatizado con Vercel y GitHub mantiene el sistema actualizado en producción.",
+            "image": "/projects/amoruso.png",
+            "stack": [
+                "Next.js",
+                "Tailwind CSS",
+                "Node.js",
+                "Supabase",
+                "PostgreSQL",
+                "WhatsApp",
+                "Vercel",
+                "CI/CD"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Show Proba",
+            "category": "Desarrollo Web",
+            "year": "2025",
+            "description": "Show Proba es una plataforma web para un catálogo de equipos de alquiler para eventos, donde los clientes pueden explorar el inventario, descubrir equipos en tendencia y solicitar cotizaciones al instante.\n\nDesarrollada con Next.js 14, TypeScript y Tailwind CSS, con Supabase como gestor de contenido y base de datos. El diseño responsive y la integración directa con WhatsApp convierten la exploración del catálogo en cotizaciones rápidas, con cobertura de servicio en múltiples ciudades.",
+            "image": "/projects/showproba.png",
+            "stack": [
+                "Next.js 14",
+                "TypeScript",
+                "Tailwind CSS",
+                "Supabase",
+                "WhatsApp"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2026",
+            "description": "LegalTec — Líder de Backend e IA: sistema RAG para documentos legales, integración de LLMs, refactorización backend con Node.js/Express/TypeScript, Redis, Google Cloud y PayPal API.",
+            "stack": [
+                "Node.js",
+                "RAG",
+                "LLMs",
+                "Redis",
+                "Google Cloud"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2026",
+            "description": "Amoruso Inversiones: sistema integral de gestión de presupuestos para taller automotriz con Next.js, Node.js, Supabase y despliegue CI/CD en Vercel.",
+            "stack": [
+                "Next.js",
+                "Node.js",
+                "Supabase",
+                "Vercel"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2025",
+            "description": "Desarrollo de Show Proba: plataforma web responsive para catálogo de equipos de alquiler con cotización vía WhatsApp y gestor de contenido con Supabase.",
+            "stack": [
+                "Next.js 14",
+                "TypeScript",
+                "Tailwind CSS",
+                "Supabase"
+            ]
+        }
+    ]
+}

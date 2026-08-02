@@ -1,0 +1,47 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "about": "Perfil",
+        "stack": "Stack",
+        "projects": "Proyectos",
+        "roadmap": "Experiencia",
+        "contact": "Contacto"
+    },
+    "title": {
+        "about": "Perfil",
+        "stack": "Stack",
+        "projects": "Proyectos",
+        "roadmap": "Experiencia",
+        "contact": "Contacto"
+    },
+    "scrollDown": "Scroll",
+    "contactMe": "Contactar",
+    "exploreProjects": "Ver Proyectos",
+    "readFullVersion": "Leer Perfil Completo",
+    "frontendStack": "Interfaz",
+    "backendStack": "Backend",
+    "aiStack": "IA y LLMs",
+    "databaseStack": "Bases de Datos",
+    "infrastructureStack": "Infraestructura",
+    "messagingStack": "Mensajería",
+    "toolsStack": "Herramientas",
+    "projectsIntro": "Proyectos *profesionales* y *productos digitales* donde he aplicado **backend**, **IA** y **arquitectura escalable**.",
+    "projectsScrollText": "Desliza para explorar",
+    "projectsEndText": "Fin",
+    "roadmapDescription": "Mi trayectoria profesional y las tecnologías que he aplicado en cada etapa.",
+    "contactIntroText": "¿Tienes un proyecto en mente o quieres llevar tu sistema al siguiente nivel? Hablemos.",
+    "sendEmail": "Email",
+    "directLine": "Teléfono",
+    "allRightsReserved": "Todos los derechos reservados.",
+    "contactModalDescription": "Envíame un mensaje y te responderé lo antes posible.",
+    "projectDetails": "Detalles de",
+    "aboutProject": "Sobre el Proyecto",
+    "technologies": "Tecnologías",
+    "liveDemo": "Demo en Vivo",
+    "sourceCode": "Código Fuente",
+    "notFound": {
+        "title": "Página No Encontrada",
+        "description": "La página que buscas no existe, fue movida o está temporalmente fuera de servicio.",
+        "goHome": "Volver al Inicio"
+    }
+}
